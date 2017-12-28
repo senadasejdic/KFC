@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuæa Prirode</title>
+</head>
+<style>
+body {background-color: lightgreen;}
+</style>
+<body>
+
+<h1>Sokovi CAR PRIRODE</h1>
+<p><b>SOK OD BRUSNICE</b></p>
+<p>Sadržaj soka je èisti voæni sok brusnice sa prijedjela Fojnice, sa dodatkom odabrane sorte grožða i jabuke.
+<br>Sok od brusnice bogat je kalijem i vitaminima A i C.
+<br>Zbog antiseptiènih svojstava veoma je efikasan u lijeèenju mokraænih puteva i organa ( bakterija E. Colli). Sok od brusnice snižava razinu šeæera u krvi i smatra se prirodnim antibiotikom.  
+<br>Preporuèuje se osobama koje su sklone stresu, te kao prevencija pojave kardiovaskularnih problema.
+<br>Brusnica blagotvorno djeluje kod lijeèenja bolesti oèiju.
+<br>Zbog niskokaloriène vrijednosti, konzumacija soka od brusnice preporuèuje se dijabetièarima. 
+<br>Sadržaj 0.75l.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/car-brusnica.png" alt="Sok od brusnice CAR">
+<p><b>SOK ZA ZDRAVO SRCE</b></p>
+<p>Sadržaj soka je prirodni ruèno cijeðeni sok crne ribizle, višnje, maline, grožða i jabuke. 
+<br>Vodeæi uzrok smrti odraslih osoba je srèana bolest. Iako je genetsko naslijeðe glavni faktor oboljenja srca, 
+<br>utvrdilo se da naèin života i konzumiranje zdrave hrane imaju podjednak uticaj na oèuvanje srca.
+<br>Jedenjem voæa i povræa svaki dan, za èak 30% smanjuje se rizik od srèanog udara. <br>Potrudili smo se da napravimo sok koji štiti srce od masnoæa i od svakodnevnog stresa.
+<br>Crne ribizla je najjaèi antioksidant, višnja sadrži antocianine, malina posjeduje elagiènu kiselinu koja djeluje antikarciogeno, grožðe  sadrži polifenole za bolji protok krvi i jabuka skida masnoæu u krvi. 
+<br>Miks ovih voæaka daje sok koji sadrži apsolutno sve vitamine i minerale koji su potrebni organizmu.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/car-sok-za-zdravo-srce.png"Sok za zdravo srce CAR">
+<p><b>SOK ZA KRVNU SLIKU</b></p>
+<p>Sadržaj soka je prirodni ruèno cijeðeni sok borovnice, crne ribizle, kupine, višnje,  cvekle,  grožða  i  jabuke.
+<br>Miksom borovnice i crne ribizle koje su bogate mineralima: cink, kalij, kalcij, magnezijum, te kupine koja je izrazito bogata željezom, cvekle koja pored navedenih minerala sadrži fosfor, 
+<br>jod i kobalt koji utièu na stvaranje  krvnih  zrnaca,  grožða koje sadrži polifenole za bolji protok krvi i jabuke koja skida masnoæu u krvi, proizveli smo najkvalitetniji sok za poboljšanje kompletne krvne slike. Izabrani plodovi u soku sadrže sve vitamine koji su potrebni organizmu.
+<br>Osobama kojima je potrebno poboljšanje krvne slike, preporuka je da konzumiraju po 1-1,5dl soka prije svakog obroka, ujutro i naveèer prije spavanja.
+<br>Za oèuvanje krvne slike dovoljno je popiti ujutro i prije spavanja po 1-1.5 dl soka.
+<br>Sadržaj 0,75l.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/car-krvna-slika.png"Sok za krvnu sliku CAR">
+<p><b>SOK ZA IMUNITET</b></p>
+<p>Sadržaj soka je prirodni ruèno cijeðeni sok šumske borovnice, brusnice, crne ribizle, kupine, višnje, maline, cvekle, mrkve,  grožða  i  jabuke.
+<br>Organizam je stalno izložen napadima bakterija, virusa, gljivica i parazita. Imunitet je sposobnost organizma da se od njih odbrani. Èesto je potrebno pojaèati imunitet unosom prirodnih vitamina i minerala koji se nalaze u voæu.     
+<br>Sok za imunitet sadrži veliku kolièinu vitamina i minerala koji su potrebni za jaèanje organizma. Najzastupljeniji je vitamin C, ali i svi ostali vitamini i minerali, kako bi organizam kod odraslih osoba tako i kod djece prirodnim putem postao otporniji na razne bolesti i infekcije.
+<br>Preporuka osobama sa smanjenim imunitetom je da konzumiraju sok više puta dnevno po 1-1,5 dl, naroèito ujutro kada se probude i naveèer prije spavanja. 
+<br>Sadržaj 0,75l.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/car-sok-za-imunitet.png"Sok za imunitet CAR">
+<p><b>SOK OD MRKVE</b></p>
+<p>Sadržaj soka je èisti voæni sok od 52% mrkve i 48% jabuke. 
+<br>Sok mrkve daje organizmu energiju i uklanja umor, a jabuka pomaže u kontrolisanju tjelesne težine, tlaka i holesterola.
+<br><br><br>Sok dobijen kombinacijom mrkve i jabuke djeluje kao snažan anti-oksidans i proèišæivaè organizma. Vrlo je bogat brojnim mikroelemen-tima i vitaminima. Najzastupljeniji je vitamin A koji štiti vitamin C od oksidacije, doprinosi zdravlju kože i kose, te pomaže u lijeèenju bolesti vida. Sadrži vitamine B1, B2 i E, eterièna ulja, mineralne soli i kalij. Ne sadrži masnoæe pa je djelotvoran kod infekcije crijeva, djeèijeg proljeva, èira želuca i dvanaesterca, slabosti jetre i mjehura i kod kožnih bolesti.
+<br>Preporuèuje se osobama sa problemima vida i dijabetièarima. Sadržaj 1l.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/car-mrkva.png"Sok od mrkve CAR">
+
+</body>
+</html>

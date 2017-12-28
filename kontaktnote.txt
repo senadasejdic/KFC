@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuæa Prirode</title>
+<style>
+body {background-color: lightgreen;}
+</style>
+</head>
+<body>
+
+<h1 style="color:blue;">KUÆA PRIRODE d.o.o.</h1>
+<p>Josipa Panèiæa 11
+<br>71210 Ilidža
+<br>BiH</br>
+</p>
+<p>
+Mob: +387(0)61/131-564
+<br>Fax: +387(0)33/692-591
+<br>Tel: +387(0)33/692-590</br>
+</p>
+
+</body>
+</html>

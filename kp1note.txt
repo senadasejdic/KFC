@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuæa Prirode</title>
+</head>
+<style>
+body {background-color: lightgreen;}
+</style>
+<body>
+
+<h1>Kako pravimo?</h1>
+<p><br>CAR prirode èisti su voæni sokovi posebno odabranih vrsta i sorti voæa iz domaæih voænjaka.<br>
+
+Proizvedeni su cijeðenjem zdravog, zrelog voæa bez dodataka šeæera, saharina i vode, nakon èega je izvršena pasterizacija kako bi se saèuvala sva hranjiva i ljekovita svojstva. U proizvodnji sokova Kuæa prirode, Car prirode i HoReCa se ne koriste koncentrisani sokovi kao ni konzervansi.
+
+<br>Sokovi Domaæe se proizvode od koncentrisanih sokova voæa i povræa bez dodatka konzervansa, šeæera, zaslaðivaèa, umjetnih boja i aroma. Po kvalitetu ovi sokovi ne zaostaju za grupm Kuæa prirode, a cjenovno su prihvatljiviji.
+
+<br>Posebna receptura i odabir sorti voæa našim sokovima daje jedinstven i nezaboravan okus i budi želju da popijemo još jednu èašu. 
+
+<br>Sokovi imaju blagotvorna i ljekovita svojstva, preporuèuju se djeci i trudnicama, kao i svima koji drže do svog zdravlja.</br>
+
+</p>
+
+<img src="http://www.kucaprirode.ba/images/stories/slika-iz-proizvodnje-2.jpg" alt="Sokovi">
+</body>
+</html>

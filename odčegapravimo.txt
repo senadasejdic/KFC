@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuæa Prirode</title>
+<style>
+body {background-color: lightgreen;}
+</style>
+</head>
+<body>
+
+<h1>Od èega pravimo?</h1>
+<p>
+Voæni sok od maline sa predjela Srebrenice, Bratunca i Zvornika, sa dodatkom tri odabrane sorte jabuke iz predjela Gradiške i Goražda.
+<br>Sok od maline je prije svega dijetetski proizvod i izvrstan je izvor vitamina C, ne sadrži masnoæe i holesterol.
+<br>Nalazi se u sokovima za zdravo srce, imunitet i oporavak organizma u grupi Car prirode kao i u soku od maline u grupi Kuæa prirode</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-malina.jpg" alt="Maline">
+<p>
+Voæni sok od divlje kupine sa predjela Srebrenice, Bratunca i Zvornika, sa dodatkom 2 odabrane sorte crnog grožða iz Ljubuškog i Trebinja i 4 odabrane  sorte jabuke iz predjela: Gradiške i Goražda.
+<br>Djelotvorne tvari iz soka od kupine su betaini koji potièu rad jetrenih stanica te štite jetru i žuène puteve od raznih tegoba.
+<br>Sok od kupine se može naæi u Soku za krvnu sliku, Soku za imunitet, Soku za oporavak organizma i u Soku od crne ribizle i Soku od kupina</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-kupina.jpg" alt="Kupine">
+<p>
+Sadržaj soka je èisti voæni sok od crne ribizle sa dodatkom odabrane sorte crnog grožða iz Trebinja, kupine iz Bratunca, èetiri odabrane sorte jabuke iz predjela Gradiške i Goražda i dodatkom prirodnog limuna.
+<br>Sok od crne ribizle djeluje diuretski i tako pomaže u proèišæavanju organizma od nakupljenih otrova. Poveæava imunitet.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-crna-ribizla.jpg" alt="Ribizla">
+<p>
+Sadržaj soka je èisti voæni sok od samonikle borovnice iz predjela Fojnice, sa dodatkom dvije odabrane sorte crnog grožða iz Ljubuškog i Trebinja, dvije odabrane  sorte jabuke iz predjela Gradiške i prirodnog limuna.
+<br>Borovnica sadrži antocijanin, prirodni antioksidans koji smanjuje krvni tlak, sprijeèava stvaranje krvnih ugrušaka i pomaže opskrbu živèanog sistema krvlju.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-borovnica.jpg" alt="Borovnica">
+<p>Sadržaj soka je èisti voæni sok od dvije odabrane sorte višnje iz Ljubinja i Brèkog, sa dodatkom dvije odabrane sorte crnog grožða iz Ljubuškog i Trebinja i dvije sorte jabuke iz predjela  Gradiške.
+<br>Sok od višnje ima vrlo nisku energetsku vrijednost, a odlièan je izvor vitamina A i C.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-visnja.jpg" alt="Višnja">
+<p>Sadržaj soka je èisti voæni sok od jabuka, napravljen od 12 odabranih sorti jabuke iz predjela: Gradiške, Goražda, Kaknja i Olova.
+<br>Ljekovito djelovanje je: antioksidativno dejstvo, snižava holesterol i trigliceride, reguliše probavu i ublažava kašalj i kijavicu. Preporuèuje se dijabetièarima, osobama sa povišenim masnoæama u krvi i srèanim problemima. Smanjuje kiselost želuèanog sadržaja èime olakšava tegobe kod pojaèane sekrecije želuèane kiseline.
+<br>Može se konzumirati tokom èitavog dana umjestio vode, ali se preporuèuje konzumiranje 2 dl soka prije spavanja jer djeluje na nesanicu, jaèa nerve i poboljšava probavu. Sok od jabuke utièe na metabolizam i doprinosi vitkoj liniji.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-jabuka.jpg" alt="Jabuka">
+<p>Sok od mrkve daje organizmu energiju i uklanja umor, a jabuka pomaže u kontrolisanju tjelesne težine, tlaka i holesterola.
+<br>Sok dobijen kombinacijom mrkve i jabuke djeluje kao snažan antioksidans i proèišæivaè organizma. Vrlo je bogat brojnim mikroelementima i vitaminima, a najzastupljeniji je vitamin A koji štiti vitamin C od oksidacije, doprinosi zdravlju kože, kose, a pomaže u lijeèenju bolesti vida. Sadrži  vitamine B1, B2, E, eterièna ulja, mineralne soli i kalij. Ne sadrži masnoæe pa je djelotvoran kod infekcije crijeva, djeèijeg proljeva, èira želuca i dvanaesterca, slabosti jetre i mjehura i kod kožnih bolesti.
+<br>Preporuèuje se osobama sa problemima vida i dijabetièarima.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-mrkva.jpg" alt="Mrkva">
+<p>	
+Sadržaj soka je èisti voæni sok od kruške napravljen od sorte viljamovka iz okoline Visokog.
+<br>Proizveden je cijeðenjem zdravog, zrelog voæa bez dodataka seæera, saharina i vode, nakon èega je izvršena pasterizacija kako bi se saèuvala sva hranjiva i ljekovita svojstva</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-kruska.jpg" alt="Kruška">
+<p>Sok od brusnice je proizveden je cijeðenjem zdravih, zrelih plodova divlje brusnice sa prijedjela Fojnice.
+<br>Sok od brusnice sadrži kalij, vitamin A i C. Zbog antiseptiènih svojstava veoma je efikasan u lijeèenju mokraænih puteva i organa ( bakterija E. Colli). Sok od brusnice snižava razinu šeæera u krvi i smatra se prirodnim antibiotikom.
+<br>Preporuèuje se osobama koje su sklone stresu, te kao prevencija pojave kardio-vaskularnih problema. Brusnica blagotvorno djeluje kod lijeèenja bolesti oèiju.
+Zbog niskokaloriène vrijednosti, konzumacija soka od brusnice preporuèuje  se  dijabetièarima</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-brusnica.jpg" alt="Brusnica">
+<p>Šljiva je bogata mineralima kao što su kalijum, fosfor, kalcijum, magnezijum, natrijum, zeljezo i bakar. Od vitamina u šljivi je najviše prisutan provitamin A-beta koarotin,  vitamin C,  E  i  B6.
+<br>Zbog prisustva kalijuma, sok od šljive je odlièan za osobe koje imaju noæni rad, stresna stanja, intezivnu fizièku aktivnost. Sok naroèito godi sportašima. Šljiva sadrži i pektin koji je djelotvoran protiv zatvora, a vitamini B grupe utièu na psihièki nemir i poboljšavaju koncentraciju.
+<br>Svježi sok od šljive smanjuje kiselost želudaènog soka, pa se može koristiti prilikom lijeèenja gastritisa i èira.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-sljiva.jpg" alt="Šljiva">
+<p>Dunja sadrži minerale kao što su bakar, kalijum, natrijum, magnezijum, taninske materije i  fosfornu  kiselinu. Dunja sadrži veliku koncentraciju provitamina A-beta karotin, vitamin B1 i B2.
+<br>Korištenje soka od dunje preporuèuje se protiv upale ždrijela, krajnika i sluzokože dišnih puteva, protiv upale želudca i crijeva. Sok od dunje blagotvorno djeluje prilikom lijeèenja anemije.  
+<br>Zbog niskokaloriène vrijednosti, dijabetièari mogu konzumirati sok od dunje.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-dunja.jpg" alt="Dunja">
+<p>Sok od cvekle sadrži gotovo sve važne minerale: kalijum, fosfor, kalcijum, magne-zijum, željezo, fluor, jod i kobalt koji uèestvuje u stvaranju vitamina B12 koji ima znaèajnu ulogu u stvaranju crvenih krvnih zrnaca. Cvekla je veoma bogata vitaminom C i vitaminima B grupe (B1, B2 i PP).
+<br>Zbog prisustva betanina i betaina preporuèuje se za jaèanje krvnih sudova, anemije,  regulaciju pritiska i holesterola, protiv atero-skleroze i za bolje funkci-onisanje jetre.
+<br>Zbog prisustva antocijana (crvenog pigmenta) može uticati na suzbijanje rasta tumorskih æelija.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-cvekla.jpg" alt="Cvekla">
+<p>Djelotvorne tvari iz soka od grožða su vitamini B grupe (osim B12) koji su odlièni za bolji rad nervnog sistema, vitamin C, kao i  provitamin A-beta karotin. Polifenoli utièu  na  bolji  protok  krvi, sprijeèavaju zgrušavanje i nastanak bolesti srca i krvnih sudova i poveæavaju zaštitni holesterol.
+<br>Zbog prisustva bora sok od groždja je odlièan za podizanje nivoa ženskih polnih hormona kod žena u menopauzi. Prisustvo polifenola + resveratrola sprjeèava pojavu karcinoma prostate, pluæa, jetre i dojke.
+<br>Zbog velikog sadržaja grožðanog šeæera u soku,ne preporuèuje se dijabetièarima.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/vocke-crno-grozdje.jpg" alt="Grožðe">
+
+</body>
+</html>

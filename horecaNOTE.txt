@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuæa Prirode</title>
+</head>
+<style>
+body {background-color: lightgreen;}
+</style>
+<body>
+
+<h1>PROGRAM HoReCa</h1>
+<p><b>JABUKA prirodni cijeðeni sok</b></p>
+<p>Sok napravljen cijeðenjem 6 vrsta jabuka iz domaæih voænjaka. Pasterizovan je i nefiltriran.
+<br>Sastav: 100% jabuka. Bez dodatka vode, šeæera, zaslaðivaèa, konzervansa, vještaèkih boja i aroma.
+<br>Pakovanje: 24 flašice od 200 ml.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/jabuka-02.jpg" alt="Jabuka sok">
+<p><b>JABUKA sa MENTOM prirodni cijeðeni sok</b></p>
+<p>Sok napravljen cijeðenjem 6 vrsta jabuka iz domaæih voænjaka. Pasterizovan je i nefiltriran.
+<br>Sastav: jabuka, menta. Bez dodatka vode, šeæera, zaslaðivaèa, konzervansa, vještaèkih boja i aroma.
+<br>Pakovanje: 24 flašice od 200 ml.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/sokici/jabuka-menta.jpg" alt="Jabuka sa mentom sok">
+<p><b>ARONIJA BOROVNICA RIBIZLA (MIX)</b></p>
+<p>Sok napravljen cijeðenjem svježih bobica aronije, borovnice i crne ribizle iz domaæeg uzgoja.
+<br>Soku je dodana i manja kolièina cijeðenog soka od grožða i jabuke, koji mu daju veoma lijep okus. 
+<br>Sastojci: (aronija, borovnica, crna ribizla) 65%, (grožðe i jabuka) 35%. 
+<br>Bez dodatka vode, šeæera, zaslaðivaèa, konzervansa, boja i aroma. Pasterizovan i nefiltriran.
+Pakovanje: 24 flašice od  200 ml.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/aronija-02.jpg" alt="Aronija borovnica ribizla sok">
+<p><br>JAGODA cijeðeni kašasti sok</br></p>
+<p>Sok napravljen mljevenjem svježih plodova jagode, sa dodatkom cijeðenog soka od grožða i jabuke, koji mu daju žitkost, 
+<br>slatkoæu i kiselost, a nadasve veoma lijep okus.Pasterizovan je i nefiltriran.
+<br>Sastav: mljevena jagoda 55%, cijeðeni sok grožða i jabuke 45%. 
+<br>Bez dodatka vode, šeæera, zaslaðivaèa, konzervansa, vještaèkih boja i aroma.
+<br>Pakovanje: 24 flašice od 200 ml.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/jagoda-02.jpg" alt="Sok od jagode">
+<p><b>BRESKVA cijeðeni kašasti sok</b></p>
+<p>Pasterizovan i nefiltriran.
+<br>Sastojci:mljevena breskva 60%, cijeðeni sok jabuke 40%.
+<br>Bez dodatka vode, šeæera, zaslaðivaèa, konzervansa, vještaèkih boja i aroma.
+<br>Pakovanje: 24 flašice od 200 ml.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/sokici/breskva.jpg" alt="Sok od breskve">
+
+
+
+
+
+</body>
+</html>

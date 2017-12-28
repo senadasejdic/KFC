@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuæa Prirode</title>
+<h1 style="background-color:LightGray;">Šta su CAR i Kuæa prirode?</h1>
+<a href="file:///C:/Users/User/Desktop/website/gp1.html">Gdje kupiti</a>
+<a href="file:///C:/Users/User/Desktop/website/kp1.html">Kako pravimo</a>
+<a href="file:///C:/Users/User/Desktop/website/od%C4%8Degapravimo.html">Od èega pravimo</a>
+<a href="file:///C:/Users/User/Desktop/website/sokovidoma%C4%87e.html">Sokovi DOMAÆE</a>
+<a href="file:///C:/Users/User/Desktop/website/sokoviCAR.html">sokovi CAR</a>
+<a href="file:///C:/Users/User/Desktop/website/horeca.html">PROGRAM HoReCa</a>
+<a href="file:///C:/Users/User/Desktop/website/kontakt.html">Kontakt</a>
+<head>
+<style>
+body {background-color: lightgreen;}
+</style>
+<body>
+<td valign="top" ><p style="text-align: justify;"><span style="color: #808080;">CAR prirode i Kuæa prirode su voæni sokovi od posebno odabranih vrsta i sorti voæa iz domaæih voænjaka. </span><br /><br /><span style="color: #808080;">Proizvedeni su cijeðenjem zdravog, zrelog voæa bez dodataka koncentrata, konzervansa, seæera, saharina i vode, nakon èega je izvršena pasterizacija kako bi se saèuvala sva hranjiva i ljekovita svojstva.</span><br /><span style="color: #808080;"><br />Posebna receptura i odabir sorti voæa našim sokovima daje jedinstven i nezaboravan okus i budi želju da popijemo još jednu èašu. </span><br /><span style="color: #808080;"><br />Sokovi imaju blagotvorna i ljekovita svojstva, preporuèuju se djeci i trudnicama, kao i svima koji drže do svog zdravlja.<br /><br /></span></p>
+<p style="text-align: justify;"><span style="color: #808080;"><a href="https://www.youtube.com/embed/1eq-xRP02cQ" target="_blank">
+<img src="http://poslovnisvijet.ba/wp-content/uploads/2015/11/darprirode1.jpg" alt="Naslovna">
+<h3>Cijeðeni SOKOVI</h3>
+
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kuæa Prirode</title>
+<style>
+body {background-color: lightgreen;}
+</head>
+</style>
+
+<body>
+
+<h1>Sokovi DOMAÆE</h1>
+<p><b>SOK OD JABUKE</b></p>
+<p>SOK OD JABUKE proizveden od koncentrisanog soka jabuke. 
+<br>Udio voæa 100%. Sastojci: sok od jabuke vitamin C, limunska kiselina.
+<br>Bez konzervansa i zaslaðivaèa. Bez dodatka šeæera. Pasterizovan. Pakovanje 0,72l.</br>
+</p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/jabuka.jpg" alt="Sok od jabuke">
+<p><b>SOK OD ARONIJE</b></p>
+<p>Proizveden od koncentrisanog soka aronije i jabuke. <br>Udio voæa 100%. Sastojci: sok aronije 58%, sok jabuke 42%, limunska kiselina.
+<br>Bez konzervansa i zaslaðivaèa. Bez dodatka šeæera. Pasterizovan. Pakovanje 0,72l.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/aronija.jpg" alt="Sok od aronije">
+<p><b>SOK OD NARANÈE SA PULPOM</b></p>
+<p>Proizveden od koncentrisanog soka naranèe. Udio voæa 100%. 
+<br>Sastojci: sok od naranèe i pulpa od naranèe.
+<br>Bez konzervansa i zaslaðivaèa. Bez dodatka šeæera. Pasterizovan. Pakovanje 0,72l.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/naranca-sa-pulpom.jpg" alt="Sok od naranèe sa pulpom">
+<p><b>SOK MULTIVITAMIN SA 12 VITAMINA</b></p>
+<p>Proizveden od koncentrisanih sokova. Udio voæa i povræa 100%. 
+<br>Sastojci: jabuka, naranèa, ananas, grožðe, banana, guava, kajsija, limun, mango, mandarina, limeta i mrkva.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/multivitamin.jpg" alt="Multivitamin sok">
+<p><b>SOK OD ŠUMSKE BOROVNICE</b></p>
+<p>Proizveden od koncentrisanih sokova šumske-divlje borovnice i jabuke. 
+<br>Sastojci: sok borovnice 52%, sok jabuke 48%, limunska kiselina. Udio voæa 100%.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/sumska-borovnica.jpg" alt="Sok od šumske borovnice">
+<p><b>SOK OD PINK GREJPA</b></p>
+<p>Proizveden od koncentrisanog soka  pink grejpa. Udio voæa 100%. 
+<br>Sastojci: sok od pink grejpa i pulpa od pink grejpa.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/pink-grape.jpg" alt="Sok od pink grejpa">
+<p><b>SOK OD MRKVE</b></p>
+<p>Proizveden od koncentrisanog soka. Udio povræa i voæa 100%. 
+<br>Sastojci: kaša i sok mrkve 55%, sok jabuke 40%, sok naranèe 5%, vitamin C, limunska kiselina.
+<br/></p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/mrkva.jpg" alt="Sok od mrkve">
+<p><b>SOK OD CVEKLE</b></p>
+<p>proizvedeno od koncentrisanog soka cvekle. Udio povræa 100%. 
+<br>Sastojci: sok od cvekle i limunska kiselina.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/cvekla.jpg" alt="Sok od cvekle">
+<p><b>SOK OD POVRÆA</b></p>
+<p>Proizveden od koncentrisanog soka. Udio povræa i voæa 100%. 
+<br>Sastojci: sok cvekle 30%, kaša i sok mrkve 30%, sok jabuke 30% i sok naranèe 10%.</br></p>
+<img src="http://www.kucaprirode.ba/images/stories/domace/povrce.jpg" alt="Sok od povræa">
+
+ 
+
+
+
+</body>
+</html>
